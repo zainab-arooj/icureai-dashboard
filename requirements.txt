@@ -1,0 +1,11 @@
+dash
+dash-bootstrap-components
+pandas
+numpy
+scikit-learn
+xgboost
+scanpy
+plotly
+gunicorn
+reportlab
+kaleido
