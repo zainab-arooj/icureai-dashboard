@@ -18,6 +18,11 @@ The core implementation is contained entirely within a streamlined web dashboard
 
 How to Run Locally
 
+Clone this repository:
+   ```bash
+   git clone [https://github.com/zainab-arooj/icureai-dashboard.git](https://github.com/zainab-arooj/icureai-dashboard.git)
+   cd icureai-dashboard
+
 1. Install the necessary dependencies
 Bash
 pip install -r requirements.txt
