@@ -22,7 +22,7 @@ How to Run Locally
 Bash
 pip install -r requirements.txt
 
-2.Spin up the application interface:
+2. Spin up the application interface:
 streamlit run app.py
 (Note: Adjust the runner command if using a different framework like Dash or Gradio instead of Streamlit).
 
