@@ -30,6 +30,10 @@ pip install -r requirements.txt
 2. Spin up the application interface:
 streamlit run app.py
 (Note: Adjust the runner command if using a different framework like Dash or Gradio instead of Streamlit).
+```
+
+https://github.com/user-attachments/assets/31a5e54a-db99-4926-927b-69a3af19a92b
+
 
 https://github.com/user-attachments/assets/652dc890-c130-4ec0-8131-3019a856df55
 
